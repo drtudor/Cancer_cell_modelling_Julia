@@ -1,0 +1,5 @@
+# Ignore image files and data files, these will be saved in dropbox or google drive to save bandwidth 
+
+*.pdf
+*.png
+*.svg
