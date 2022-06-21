@@ -20,5 +20,5 @@ of macrophages needed to stop the progression of cancerous growths. The initial 
 
 ## Outputs
 
-The model outputs at what time the cancer cells either go extinct or take over the domain. There are two stable points of the model, either the cancer cells go to 0 or else they reach the carrying capacity of the system. There is also one un-stable point in which the amount of macrophages is proportional to the proliferation-death ratio. 
+The model outputs at what time the cancer cells either go extinct or take over the domain. There are two stable points of the model, either the cancer cells go to 0 or else they reach the carrying capacity of the system. There is also one un-stable point in which the amount of macrophages is proportional to the proliferation-death ratio. The model also outputs a histogram of the number of cancer cells each macrophage consumes, depending on the ratio of seed cells to macrophages. 
 
